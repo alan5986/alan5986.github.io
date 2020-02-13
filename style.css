@@ -232,5 +232,12 @@ video{
 		display: inline;
 		opacity: 0.75;
 	}
+
+	.about{
+		padding-top: 0px;
+		padding-left: 50px;
+		padding-right: 50px;
+	
+	}
 }
 
