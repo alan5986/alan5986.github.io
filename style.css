@@ -227,5 +227,10 @@ video{
 	.grid-container {
 		grid-template-columns: repeat(1, 1fr);
 	}
+
+	.overlay{
+		display: inline;
+		opacity: 0.75;
+	}
 }
 
